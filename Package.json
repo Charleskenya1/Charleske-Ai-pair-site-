@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IRON-M4N/pair-example.git"
+    "url": "https://github.com/Charleskenya1CHARLESKE-AI/pair-example.git"
   },
   "keywords": [],
-  "author": "IRON-M4N",
+  "author": "CHARLESKE-AI",
   "license": "MIT",
   "dependencies": {
     "baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
